@@ -1,0 +1,13 @@
+.ui.input {
+    width: 300px
+}
+
+.ui.checkbox label,
+.ui.checkbox label:hover,
+.ui.checkbox input:focus~label {
+    color: white
+}
+
+.ui.checkbox {
+    padding-top: 5px
+}
